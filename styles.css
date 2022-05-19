@@ -569,9 +569,7 @@ footer p {
     position: relative;
   }
   .whoweare-right figure{
-    position: absolute;
     top: -120px;
-    left: 80px
   }
   .about-us {
     position: static;
